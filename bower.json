@@ -1,0 +1,27 @@
+{
+  "name": "rvn2addrjs",
+  "description": "Ravncoin rvn2addr address format support for Node.js and web browsers.",
+  "main": "src/rvn2addr.js",
+  "authors": [
+    "Emilio Almansi",
+    "MSFTserver"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "ravencoin",
+    "rvn2",
+    "rvn2addr",
+    "address",
+    "format",
+    "node",
+    "browser"
+  ],
+  "homepage": "https://github.com/MSFTserver/rvn2addrjs",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
