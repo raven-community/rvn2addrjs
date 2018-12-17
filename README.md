@@ -1,12 +1,8 @@
 # Rvn2Addr.js: The new Ravencoin address format for Node.js and web browsers.
 
-[![Build Status](https://travis-ci.org/bitcoincashjs/cashaddrjs.svg?branch=master)](https://travis-ci.org/bitcoincashjs/cashaddrjs) [![Coverage Status](https://coveralls.io/repos/github/bitcoincashjs/cashaddrjs/badge.svg?branch=master)](https://coveralls.io/github/bitcoincashjs/addrjs?branch=master)
-
-[![NPM](https://nodei.co/npm/rvnaddrjs.png?downloads=true)](https://nodei.co/npm/rvnaddrjs/)
+# NOT IMPLEMENTED YET!!
 
 JavaScript implementation for the new Rvn2Addr address format for Ravencoin.
-
-*Note:* This is a JavaScript implementation of the Rvn2Addr format specification. If you are looking for a general purpose Bitcoin Cash address translation library, check out the easy-to-use and well-tested [RvnAddr.js](https://github.com/bitcoincashjs/rvnaddrjs).
 
 ## Installation
 
