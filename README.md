@@ -64,4 +64,4 @@ $ npm run docs
 
 ### Online
 
-Browse automatically generated jsdocs [online](https://cdn.rawgit.com/bitcoincashjs/cashaddrjs/master/docs/index.html).
+Browse automatically generated jsdocs [online](https://cdn.rawgit.com/raven-community/rvn2addrjs/master/docs/index.html).
