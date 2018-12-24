@@ -76,4 +76,3 @@ module.exports = {
   encode: encode,
   decode: decode,
 };
-rvn2
